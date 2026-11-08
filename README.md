@@ -1,4 +1,4 @@
-<img width="640" height="420" alt="image" src="https://github.com/user-attachments/assets/fc564ae0-ccaa-4fc5-bb3b-b91c2c57f016" /># ai 记录
+ai 记录
 
 
 Nature Skills
